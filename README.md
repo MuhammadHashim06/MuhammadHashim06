@@ -15,7 +15,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="left">Hey 👋 What's up?</h1>
+
 [![An image of @muhammadhashim06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadhashim06)](https://holopin.io/@muhammadhashim06)
+
 ###
 
 <p align="left">My name is Muhammad Hashim and I'm a Software Engineer from Pakistan</p>
