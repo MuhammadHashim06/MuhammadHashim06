@@ -13,6 +13,8 @@ https://profile-readme-generator.com/
 MuhammadHashim06/MuhammadHashim06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![An image of @muhammadhashim06's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadhashim06)](https://holopin.io/@muhammadhashim06)
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
